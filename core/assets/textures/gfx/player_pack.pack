@@ -1,0 +1,134 @@
+
+player_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+9
+  rotate: false
+  xy: 1, 872
+  size: 750, 87
+  orig: 750, 87
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1, 776
+  size: 750, 94
+  orig: 750, 94
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 669
+  size: 750, 105
+  orig: 750, 105
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 562
+  size: 750, 105
+  orig: 750, 105
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 455
+  size: 750, 105
+  orig: 750, 105
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1, 345
+  size: 750, 108
+  orig: 750, 108
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1, 231
+  size: 750, 112
+  orig: 750, 112
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1, 117
+  size: 750, 112
+  orig: 750, 112
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1, 1
+  size: 750, 114
+  orig: 750, 114
+  offset: 0, 0
+  index: -1
+
+player_pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3
+  rotate: false
+  xy: 1, 792
+  size: 750, 163
+  orig: 750, 163
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1, 641
+  size: 750, 149
+  orig: 750, 149
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1, 507
+  size: 750, 132
+  orig: 750, 132
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1, 373
+  size: 750, 132
+  orig: 750, 132
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 242
+  size: 750, 129
+  orig: 750, 129
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1, 121
+  size: 750, 119
+  orig: 750, 119
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1, 1
+  size: 750, 118
+  orig: 750, 118
+  offset: 0, 0
+  index: -1
+
+player_pack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+15
+  rotate: false
+  xy: 1, 1
+  size: 750, 115
+  orig: 750, 115
+  offset: 0, 0
+  index: -1

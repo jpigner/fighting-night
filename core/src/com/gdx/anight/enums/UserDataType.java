@@ -1,0 +1,17 @@
+package com.gdx.anight.enums;
+
+public enum UserDataType {
+	
+	GROUND,
+	MAPGROUND,
+	PLAYER,
+	JOINT,
+	JOINT2,
+	MAPOBJECT,
+	TILED_GROUND,
+	ENEMY_STRONG,
+	TILED_ENEMY_STRONG,
+	LINEOBJECT,
+	BULLET
+	
+}

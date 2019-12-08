@@ -1,0 +1,54 @@
+
+player2_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3
+  rotate: false
+  xy: 1, 673
+  size: 750, 163
+  orig: 750, 163
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1, 553
+  size: 750, 118
+  orig: 750, 118
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1, 436
+  size: 750, 115
+  orig: 750, 115
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1, 322
+  size: 750, 112
+  orig: 750, 112
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 215
+  size: 750, 105
+  orig: 750, 105
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 108
+  size: 750, 105
+  orig: 750, 105
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 1
+  size: 750, 105
+  orig: 750, 105
+  offset: 0, 0
+  index: -1
